@@ -1,5 +1,163 @@
 #EXTM3U
-#EXTM3U
+#EXTM3U#EXTINF:-1,A&E
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142604.ts
+#EXTINF:-1,A&E #2
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/168256.ts
+#EXTINF:-1,ABC News
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/221761.ts
+#EXTINF:-1,ABC
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/143434.ts
+#EXTINF:-1,Adult Swim
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142609.ts
+#EXTINF:-1,AMC US
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142610.ts
+#EXTINF:-1,AMC #2
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/168539.ts
+#EXTINF:-1,Animal Planet US
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/143361.ts
+#EXTINF:-1,Animal Planet #2
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/221918.ts
+#EXTINF:-1,American Heroes Channel
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142611.ts
+#EXTINF:-1,BBC America
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142614.ts
+#EXTINF:-1,BET
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142615.ts
+#EXTINF:-1,Boomerang
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142618.ts
+#EXTINF:-1,Bounce TV
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142619.ts
+#EXTINF:-1,Bravo
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142620.ts
+#EXTINF:-1,Bravo Direct
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/169092.ts
+#EXTINF:-1,BUZZER
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142621.ts
+#EXTINF:-1,Cartoon Network
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142626.ts
+#EXTINF:-1,Cartoon Network Backup
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/168138.ts
+#EXTINF:-1,CBS
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142627.ts
+#EXTINF:-1,CBS #2
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/221391.ts
+#EXTINF:-1,Cinemax
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142630.ts
+#EXTINF:-1,CNBC
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142634.ts
+#EXTINF:-1,CNN
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142635.ts
+#EXTINF:-1,CNN #2
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/221917.ts
+#EXTINF:-1,Comedy Central
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142636.ts
+#EXTINF:-1,Comedy Central BACKUP
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/221397.ts
+#EXTINF:-1,Comedy Central Extra
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/169411.ts
+#EXTINF:-1,Cooking Channel
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/143359.ts
+#EXTINF:-1,Country network
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/143362.ts
+#EXTINF:-1,COZI TV
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142638.ts
+#EXTINF:-1,CSPAN US
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142622.ts
+#EXTINF:-1,C SPAN 3
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/168305.ts
+#EXTINF:-1,CW
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142639.ts
+#EXTINF:-1,DIY Network
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142648.ts
+#EXTINF:-1,DogTV
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/254218.ts
+#EXTINF:-1,E! Entertainment
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142649.ts
+#EXTINF:-1,El Rey
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142650.ts
+#EXTINF:-1,EL REY NETWORK(DIRECT)
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/168264.ts
+#EXTINF:-1,EPIX
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142651.ts
+#EXTINF:-1,EPIX 2
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142652.ts
+#EXTINF:-1,Food Network
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/143360.ts
+#EXTINF:-1,FOX 50
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142659.ts
+#EXTINF:-1,FOX
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/168540.ts
+#EXTINF:-1,Fox Business
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142660.ts
+#EXTINF:-1,Fox News
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142661.ts
+#EXTINF:-1,Fox News #2
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/168251.ts
+#EXTINF:-1,Freeform
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142662.ts
+#EXTINF:-1,Fusion HD
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/168375.ts
+#EXTINF:-1,FX US
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142585.ts
+#EXTINF:-1,FX
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/194950.ts
+#EXTINF:-1,FXX HD
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142665.ts
+#EXTINF:-1,FXX Direct
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/168373.ts
+#EXTINF:-1,FX Movie Channel
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/168257.ts
+#EXTINF:-1,FYI
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142666.ts
+#EXTINF:-1,Grit
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142668.ts
+#EXTINF:-1,GSN
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142669.ts
+#EXTINF:-1,HBO
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142672.ts
+#EXTINF:-1,HBO 2 US
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/221764.ts
+#EXTINF:-1,HBO Comedy
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142673.ts
+#EXTINF:-1,HBO Family
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/221757.ts
+#EXTINF:-1,HBO Signature
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142674.ts
+#EXTINF:-1,HBO Zone
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142675.ts
+#EXTINF:-1,HGTV US
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142677.ts
+#EXTINF:-1,HDNET MOVIES
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/221608.ts
+#EXTINF:-1,History Channel
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142678.ts
+#EXTINF:-1,H&I
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/221760.ts
+#EXTINF:-1,HLN
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142682.ts
+#EXTINF:-1,IFC
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142684.ts
+#EXTINF:-1,ION
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/168255.ts
+#EXTINF:-1,ION LIFE
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/168254.ts
+#EXTINF:-1,Lifetime
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142685.ts
+#EXTINF:-1,LMN
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142686.ts
+#EXTINF:-1,LUV NATURE
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/168252.ts
+#EXTINF:-1,More Max
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142631.ts
+#EXTINF:-1,MSNBC
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142687.ts
+#EXTINF:-1,MTV
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/142688.ts
+#EXTINF:-1,MTV Live
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/221666.ts
+#EXTINF:-1,NASA TV
+http://162.218.64.53:83/live/mywifitv/ONElastime123!/14
+
 
 #EXTM3U
 EXTINF:-1,BN :SPORT1 HD
