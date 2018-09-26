@@ -1,5 +1,27 @@
 #EXTM3U
 #EXTM3U
+
+#EXTM3U
+EXTINF:-1,BN :SPORT1 HD
+http://94.23.21.201:8080/live/ilidio/ilidio/3110.ts
+EXTINF:-1,BN :SPORT2 HD
+http://94.23.21.201:8080/live/ilidio/ilidio/3108.ts
+EXTINF:-1,BN :SPORT3 HD
+http://94.23.21.201:8080/live/ilidio/ilidio/3107.ts
+EXTINF:-1,BN :SPORT4 HD
+http://94.23.21.201:8080/live/ilidio/ilidio/3106.ts
+EXTINF:-1,BN :SPORT5 HD
+http://94.23.21.201:8080/live/ilidio/ilidio/3105.ts
+EXTINF:-1,BN :SPORT6 HD
+http://94.23.21.201:8080/live/ilidio/ilidio/3104.ts
+EXTINF:-1,BN :SPORT7 HD
+http://94.23.21.201:8080/live/ilidio/ilidio/3103.ts
+EXTINF:-1,BN :SPORT8 HD
+http://94.23.21.201:8080/live/ilidio/ilidio/3102.ts
+EXTINF:-1,BN :SPORT9 HD
+http://94.23.21.201:8080/live/ilidio/ilidio/3101.ts
+EXTINF:-1,BN :SPORT10 HD
+http://94.23.21.201:8080/live/ilidio/ilidio/3109.ts
 EXTINF:-1,Uk- BBC One HD
 http://193.200.164.138:6204/live/Pizza/Pizza/8587.ts
 EXTINF:-1,Uk- BBC Two HD
